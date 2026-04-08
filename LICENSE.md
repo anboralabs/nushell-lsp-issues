@@ -1,6 +1,6 @@
 # END-USER LICENSE AGREEMENT
 
-This End-User License Agreement (EULA) is a legal agreement between you (either as an individual or on behalf of an entity) and Anbora-labs regarding your use of Nu LSP Intellij Plugin's desktop applications, and associated documentation (the "Software"). IF YOU DO NOT AGREE TO ALL OF THE TERMS OF THIS EULA, DO NOT INSTALL, USE OR COPY THE SOFTWARE.
+This End-User License Agreement (EULA) is a legal agreement between you (either as an individual or on behalf of an entity) and Anbora-labs regarding your use of Nu (LSP|Lint) Intellij Plugin's desktop applications, and associated documentation (the "Software"). IF YOU DO NOT AGREE TO ALL OF THE TERMS OF THIS EULA, DO NOT INSTALL, USE OR COPY THE SOFTWARE.
 
 ### Summary
 
